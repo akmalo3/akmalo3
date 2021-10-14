@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akmalo3
-- 👀 I’m interested in web-sayting
+- 👀 I’m interested in web-deweloping
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me
