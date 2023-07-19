@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @akmalo3
-- 👀 I’m interested in web-deweloping
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+
 
 <!---
 akmalo3/akmalo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
